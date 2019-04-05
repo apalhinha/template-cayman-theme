@@ -4,9 +4,14 @@ title: Welcome
 # Example page
 This is a ready-to-use GitHub pages site
 
+## heading 2
+Now 2
+
 An example of an ordered list
 1. One
 1. Two
+   1. Two e meio
+1. Three
 
 An example of an unordered list
 - One
