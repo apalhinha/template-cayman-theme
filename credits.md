@@ -2,7 +2,7 @@
 title: Credits
 ---
 # About the author
-Andre Palhinha: Hobbist developer, once in a while rehearsing new technologies. In this case, rehearsing GitHub Pages.
+Andre Palhinha: Hobbyist developer, once in a while rehearsing new technologies. In this case, rehearsing GitHub Pages.
 
 See the recursive info: Me, describing my self, for this specific context.
 :-)
